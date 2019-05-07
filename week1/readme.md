@@ -1,6 +1,6 @@
-#Week1 
+## Week1 
 
-#Couse Project 1
+## Couse Project 1
 
 For each plot you should
 
